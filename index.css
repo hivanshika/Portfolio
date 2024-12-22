@@ -1,0 +1,84 @@
+body{
+    background-color: black;
+    font-family: public sans-serif;
+    color: white;
+    line-height: 1;
+    font-size: large;
+    padding: auto;
+}
+.img5{
+    text-align: right;
+}
+.img2{
+    text-align: right;
+}
+.info{
+    text-align: right;
+}
+.img4{
+    text-align: right;
+}
+.edu{
+    text-align: right; 
+    line-height: .85;
+}
+.a{
+    display: flex; /* Enables flexbox layout */
+    align-items: center; /* Vertically aligns items */
+    gap: 100px;
+}
+.b{
+    display: flex; /* Enables flexbox layout */
+    align-items: center; /* Vertically aligns items */
+    gap: 150px;
+}
+
+img{
+     width: 50%;
+     
+}
+.c{
+    display: flex;
+    align-items: center; /* Center-align items horizontally */
+    gap: 150px; /* Space between images and text */
+    
+    width: 88%;
+
+}
+.d{
+    display: flex;
+    align-items: center; /* Center-align items horizontally */
+    gap: 150px; /* Space between images and text */
+    width: 88%;
+}
+h1{
+    font-size: 55px;
+    margin-bottom: 10px;
+    text-decoration: underline 5px gold;
+}
+h2{
+    font-size: 45px;
+    text-decoration: underline 5px gold;
+}
+h4{
+    margin-top: 0px;
+}
+p{
+    font-size: 23px;
+    margin-top: 0px;
+}
+h3{
+    font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+li{
+    font-size: 23px;
+}
+.ok{
+    margin-bottom: 60px;
+}
+.hi{
+    font-size: 40px;
+
+}
